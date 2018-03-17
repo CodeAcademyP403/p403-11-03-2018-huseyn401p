@@ -1,0 +1,81 @@
+@media only screen and (max-width:1200px){
+    .res1{
+    display: none;
+    }  
+    #header .bars{
+        display: block;
+
+    }  
+}
+@media only screen and (max-width:1100px){
+    #orta h1{
+        font-size:20px;
+        margin-bottom: 0px;
+        padding-bottom: 0px;
+    }
+    #orta span{
+        font-size:20px;
+        margin-top: 0px;
+        padding-top: 0px;
+    }
+}
+@media only screen and (max-width:400px){
+    #BackgroundStory .hr{
+        display: none;
+    }
+    #OurPortfolio .row .col-md-12 .col-md-4 .sekilalti h3{
+        font-size: 8px;
+        margin-top:0px;
+    }
+    #OurPortfolio .row .col-md-12 .col-md-4 .sekilalti p{
+        font-size: 6px;
+        padding-top: 0%;
+    }
+}
+@media only screen and (max-width:500px){
+    #OurPortfolio .row .col-md-12 .col-md-4 .sekilalti button{
+        width: 89%;
+        height: 12px;
+        font-size: 5px;
+        padding: 0px;
+    }
+    #OurPortfolio .row .col-md-12 .col-md-4 .sekilalti button i{
+        font-size: 4px;
+        margin-left: 2px;
+    }
+}
+@media only screen and (max-width:1000px){
+    #Pricing .row .col-md-3 .restop{
+        margin-top:490px;
+    }
+    #Pricing .row .col-md-3 .restop2{
+        margin-top:490px;
+    }
+    #HowardMendez{
+        margin-top:27%;
+    }
+}
+@media only screen and (max-width:800px){
+    #Pricing .row .col-md-3 .res2top{
+        margin-top:0px;
+    }
+    #Pricing .row .col-md-3 .res1top{
+        margin-top:0px;
+    }
+    #HowardMendez{
+        margin-top:75%;
+    }
+}
+@media only screen and (max-width:700px){
+    #Pricing .row .col-md-3 .res2top{
+        margin-top:700px;
+    }
+    #Pricing .row .col-md-3 .restop{
+        margin-top:700px;
+    }
+    #Pricing .row .col-md-3 .restop2{
+        margin-top:700px;
+    }
+}
+
+ 
